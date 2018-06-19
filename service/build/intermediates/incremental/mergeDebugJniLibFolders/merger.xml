@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\debug\jniLibs"/></dataSet></merger>

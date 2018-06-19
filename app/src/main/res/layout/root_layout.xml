@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/btnWifiSetting"
+        android:text="Wifi Setting"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnHttpServer"
+        android:layout_width="wrap_content"
+        android:text="Http Server"
+        android:layout_height="wrap_content" />
+</LinearLayout>

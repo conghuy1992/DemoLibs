@@ -1,0 +1,1 @@
+-keep enum jp.co.aicp.sl.api.SlHttpMethod { *; }

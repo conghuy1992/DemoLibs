@@ -1,0 +1,93 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+
+  repositories {
+    google()
+    jcenter()
+  }
+  dependencies {
+    classpath 'com.android.tools.build:gradle:3.1.1'
+
+    // NOTE: Do not place your application dependencies here; they belong
+    // in the individual module build.gradle files
+  }
+}
+
+allprojects {
+  repositories {
+    google()
+    jcenter()
+    flatDir {
+      dirs 'libs'
+    }
+  }
+}
+
+task clean(type: Delete) {
+  delete rootProject.buildDir
+}
+
+task dist {
+  ext.distDir = '../dist/Android'
+  ext.modulePrefix = 'sl'
+}
+
+dist.doLast {
+  ant.copy(todir: "$distDir") {
+    fileset(dir: '.') {
+      include(name: '**/*.aidl')
+      include(name: '**/*.gradle')
+      include(name: '**/*.java')
+      include(name: '**/*.png')
+      include(name: '**/*.pro')
+      include(name: '**/*.properties')
+      include(name: '**/*.xml')
+      include(name: 'debug.keystore')
+      include(name: 'gradle/wrapper/gradle-wrapper.jar')
+      include(name: 'gradlew*')
+
+      exclude(name: '**/build/')
+      exclude(name: '.git/')
+      exclude(name: '.gradle/')
+      exclude(name: '.idea/')
+      exclude(name: '.svn/')
+      exclude(name: 'local.properties')
+
+      exclude(name: 'jni/')
+      exclude(name: 'wrapper/')
+    }
+  }
+  ant.copy(todir: "$distDir") {
+    fileset(dir: '.') {
+      include(name: '.idea/gradle.xml')
+      include(name: '.idea/runConfigurations.xml')
+    }
+  }
+  for (moduleName in ['jni']) {
+    ant.copy(
+      file: "$moduleName/build/outputs/aar/$moduleName-release.aar",
+      tofile: "$distDir/$modulePrefix-$moduleName/$modulePrefix-${moduleName}.aar")
+
+    ant.echo(
+      file: "$distDir/$modulePrefix-$moduleName/build.gradle",
+      message: """configurations.maybeCreate("default")
+artifacts.add("default", file('$modulePrefix-${moduleName}.aar'))
+""")
+
+    ant.replaceregexp(
+      file: "$distDir/.idea/gradle.xml",
+      match: "/$moduleName",
+      replace: "/$modulePrefix-${moduleName}")
+
+    ant.replaceregexp(
+      file: "$distDir/settings.gradle",
+      match: ":$moduleName",
+      replace: ":$modulePrefix-${moduleName}")
+
+    ant.replaceregexp(
+      file: "$distDir/service/build.gradle",
+      match: ":$moduleName",
+      replace: ":$modulePrefix-${moduleName}")
+  }
+}

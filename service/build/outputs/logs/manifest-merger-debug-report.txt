@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:2:11-46
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:4:3-77
+	android:name
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:4:20-74
+application
+ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:6:3-12:17
+	android:supportsRtl
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:6:76-102
+	android:label
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:6:43-75
+	android:allowBackup
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:6:16-42
+service#com.alpine.sample.service._19BbService
+ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:7:5-11:15
+	android:exported
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:7:43-67
+	android:name
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:7:14-42
+intent-filter#action:name:com.alpine.sample.service._19BbService
+ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:8:7-10:23
+action#com.alpine.sample.service._19BbService
+ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:9:9-73
+	android:name
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml:9:17-70
+uses-sdk
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\service\src\main\AndroidManifest.xml
