@@ -1,15 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
 MERGED from [com.android.databinding:adapters:3.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\adapters-3.1.1.aar\aec47b0d68e6c7aced9cc75648112f53\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.databinding:library:3.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\library-3.1.1.aar\8b199c9aef50d7bb48e1c61697319a6b\AndroidManifest.xml:17:1-24:12
-MERGED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-26:12
+MERGED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-26:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1b2e1535f836ba4b90615cd4432cf6e5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1658e50cc381b2529206b93493bf8cab\AndroidManifest.xml:2:1-11:12
-MERGED from [:wificonfiglibs-release:] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\wificonfiglibs-release.aar\a24f37afeacd38794eb339d21948371a\AndroidManifest.xml:2:1-11:12
+MERGED from [:wificonfiglibs-release:] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\wificonfiglibs-release.aar\7b9e3b4ebf9f8bd3acd886a2e4878793\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e38822daf60b8f4260d9f19b25ca7364\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4f7f2fb184a8f7a173a6d237f3dd6a43\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6558081f017d338de5b95d41373ab68b\AndroidManifest.xml:17:1-22:12
@@ -19,123 +19,131 @@ MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Huy\.gradle\cac
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0a3eca40d6b0fd7814243b2de0a528ba\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b6aadc88b2b29ab9585ce771698eeb8b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b70019b57b8d8b90ebd738fdd9a26758\AndroidManifest.xml:17:1-22:12
-MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\67e3ad7cc922f0d6f74db59a9a529b8d\AndroidManifest.xml:2:1-14:12
+MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\9c0b9c9004ff57459bdf7148534e9b1e\AndroidManifest.xml:2:1-14:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b7c1c0b256a5b0b04aec378f07c6ee6\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:1-42:12
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:7:5-76
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:7:5-76
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:7:22-73
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:7:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:8:5-76
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:8:5-76
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:8:22-73
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:8:22-73
 uses-permission#android.permission.INTERNET
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:9:5-67
-MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\67e3ad7cc922f0d6f74db59a9a529b8d\AndroidManifest.xml:12:5-67
-MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\67e3ad7cc922f0d6f74db59a9a529b8d\AndroidManifest.xml:12:5-67
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\9c0b9c9004ff57459bdf7148534e9b1e\AndroidManifest.xml:12:5-67
+MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\9c0b9c9004ff57459bdf7148534e9b1e\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:9:22-64
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+MERGED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
+MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\9c0b9c9004ff57459bdf7148534e9b1e\AndroidManifest.xml:11:5-79
+MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\9c0b9c9004ff57459bdf7148534e9b1e\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:11:5-40:19
-MERGED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-24:19
-MERGED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-24:19
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:12:5-41:19
+MERGED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-24:19
+MERGED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-24:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1658e50cc381b2529206b93493bf8cab\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1658e50cc381b2529206b93493bf8cab\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:16:9-41
 	android:roundIcon
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:16:9-54
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:17:9-54
 	android:icon
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:19:9-40
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:12:9-47
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:13:9-47
 activity#com.alpine.sample.app.RootActivity
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:19:9-26:20
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:20:9-27:20
 	android:screenOrientation
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:21:13-49
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:22:13-49
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:21:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:22:13-25:29
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.alpine.sample.app.httpServer.MainActivity
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:27:9-29:52
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:28:9-30:52
 	android:screenOrientation
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:28:13-52
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:29:13-52
 activity#com.alpine.sample.app.wifiSetting.WifiSelectionListActivity
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:30:9-32:52
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:31:9-33:52
 	android:screenOrientation
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:33:13-49
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:31:13-66
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:32:13-66
 activity#com.alpine.sample.app.wifiSetting.WifiSettingSSIDActivity
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:33:9-35:52
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:34:9-36:52
 	android:screenOrientation
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:35:13-49
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:36:13-49
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:34:13-64
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:35:13-64
 activity#com.alpine.sample.app.wifiSetting.WifiSettingSSIDManualActivity
-ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:37:9-39:52
+ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:38:9-40:52
 	android:screenOrientation
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:39:13-49
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:40:13-49
 	android:name
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml:38:13-70
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml:39:13-70
 uses-sdk
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
 MERGED from [com.android.databinding:adapters:3.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\adapters-3.1.1.aar\aec47b0d68e6c7aced9cc75648112f53\AndroidManifest.xml:22:5-44
 MERGED from [com.android.databinding:adapters:3.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\adapters-3.1.1.aar\aec47b0d68e6c7aced9cc75648112f53\AndroidManifest.xml:22:5-44
 MERGED from [com.android.databinding:library:3.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\library-3.1.1.aar\8b199c9aef50d7bb48e1c61697319a6b\AndroidManifest.xml:22:5-44
 MERGED from [com.android.databinding:library:3.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\library-3.1.1.aar\8b199c9aef50d7bb48e1c61697319a6b\AndroidManifest.xml:22:5-44
-MERGED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1b2e1535f836ba4b90615cd4432cf6e5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1b2e1535f836ba4b90615cd4432cf6e5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1658e50cc381b2529206b93493bf8cab\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\1658e50cc381b2529206b93493bf8cab\AndroidManifest.xml:5:5-7:41
-MERGED from [:wificonfiglibs-release:] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\wificonfiglibs-release.aar\a24f37afeacd38794eb339d21948371a\AndroidManifest.xml:7:5-9:41
-MERGED from [:wificonfiglibs-release:] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\wificonfiglibs-release.aar\a24f37afeacd38794eb339d21948371a\AndroidManifest.xml:7:5-9:41
+MERGED from [:wificonfiglibs-release:] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\wificonfiglibs-release.aar\7b9e3b4ebf9f8bd3acd886a2e4878793\AndroidManifest.xml:7:5-9:41
+MERGED from [:wificonfiglibs-release:] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\wificonfiglibs-release.aar\7b9e3b4ebf9f8bd3acd886a2e4878793\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e38822daf60b8f4260d9f19b25ca7364\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e38822daf60b8f4260d9f19b25ca7364\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4f7f2fb184a8f7a173a6d237f3dd6a43\AndroidManifest.xml:20:5-44
@@ -154,35 +162,29 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Huy\.gradle\ca
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\b6aadc88b2b29ab9585ce771698eeb8b\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b70019b57b8d8b90ebd738fdd9a26758\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b70019b57b8d8b90ebd738fdd9a26758\AndroidManifest.xml:20:5-44
-MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\67e3ad7cc922f0d6f74db59a9a529b8d\AndroidManifest.xml:7:5-9:41
-MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\67e3ad7cc922f0d6f74db59a9a529b8d\AndroidManifest.xml:7:5-9:41
+MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\9c0b9c9004ff57459bdf7148534e9b1e\AndroidManifest.xml:7:5-9:41
+MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\9c0b9c9004ff57459bdf7148534e9b1e\AndroidManifest.xml:7:5-9:41
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b7c1c0b256a5b0b04aec378f07c6ee6\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0b7c1c0b256a5b0b04aec378f07c6ee6\AndroidManifest.xml:20:5-44
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-		ADDED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-		INJECTED from D:\DemoProject\SL-Middleware_Android_20180413_binary\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-79
-MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\67e3ad7cc922f0d6f74db59a9a529b8d\AndroidManifest.xml:11:5-79
-MERGED from [:sl-jni] C:\Users\Huy\.gradle\caches\transforms-1\files-1.1\sl-jni.aar\67e3ad7cc922f0d6f74db59a9a529b8d\AndroidManifest.xml:11:5-79
-	android:name
-		ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-76
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+		ADDED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DemoProject\DemoLibs\app\src\main\AndroidManifest.xml
 service#com.alpine.sample.service._19BbService
-ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:9-23:19
+ADDED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:9-23:19
 	android:exported
-		ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:13-37
+		ADDED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:13-66
+		ADDED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:13-66
 intent-filter#action:name:com.alpine.sample.service._19BbService
-ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:13-22:29
+ADDED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:13-22:29
 action#com.alpine.sample.service._19BbService
-ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:17-81
+ADDED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:17-81
 	android:name
-		ADDED from [:service] D:\DemoProject\SL-Middleware_Android_20180413_binary\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:25-78
+		ADDED from [:service] D:\DemoProject\DemoLibs\service\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:25-78

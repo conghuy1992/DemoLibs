@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\DemoProject\\SL-Middleware_Android_20180413_binary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "D:\\DemoProject\\DemoLibs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Huy\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\1b2e1535f836ba4b90615cd4432cf6e5\\res\\values-en-rCA\\values-en-rCA.xml",

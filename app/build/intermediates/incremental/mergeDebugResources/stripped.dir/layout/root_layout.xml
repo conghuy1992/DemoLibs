@@ -4,6 +4,13 @@
     android:orientation="vertical"
     android:gravity="center"
     android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tvIp"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
     <Button
         android:layout_width="wrap_content"
         android:id="@+id/btnWifiSetting"

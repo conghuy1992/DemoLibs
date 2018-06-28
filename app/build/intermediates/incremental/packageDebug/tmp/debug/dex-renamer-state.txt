@@ -1,4 +1,4 @@
-#Tue Jun 19 11:48:14 ICT 2018
-base.0=D\:\\DemoProject\\SL-Middleware_Android_20180413_binary\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Thu Jun 28 13:34:50 ICT 2018
+base.0=D\:\\DemoProject\\DemoLibs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

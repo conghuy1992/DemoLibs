@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: D:\\DemoProject\\SL-Middleware_Android_20180413_binary\\service\\src\\main\\aidl\\com\\alpine\\sample\\service\\I19BbService.aidl
+ * Original file: D:\\DemoProject\\DemoLibs\\service\\src\\main\\aidl\\com\\alpine\\sample\\service\\I19BbService.aidl
  */
 package com.alpine.sample.service;
 public interface I19BbService extends android.os.IInterface

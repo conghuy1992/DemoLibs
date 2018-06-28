@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\DemoProject\\SL-Middleware_Android_20180413_binary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
+            "outputFile": "D:\\DemoProject\\DemoLibs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rUS\\values-es-rUS.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Huy\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\c16c6a88b5ed5d4e541c387f34e355d4\\res\\values-es-rUS\\values-es-rUS.xml",

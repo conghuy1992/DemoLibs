@@ -2961,15 +2961,16 @@ public final class R {
     public static final int title_template=0x7f080092;
     public static final int top=0x7f080093;
     public static final int topPanel=0x7f080094;
-    public static final int tv_SSID_name=0x7f080095;
-    public static final int uniform=0x7f080096;
-    public static final int up=0x7f080097;
-    public static final int useLogo=0x7f080098;
-    public static final int wifi_listview=0x7f080099;
-    public static final int wifi_name=0x7f08009a;
-    public static final int withText=0x7f08009b;
-    public static final int wrap=0x7f08009c;
-    public static final int wrap_content=0x7f08009d;
+    public static final int tvIp=0x7f080095;
+    public static final int tv_SSID_name=0x7f080096;
+    public static final int uniform=0x7f080097;
+    public static final int up=0x7f080098;
+    public static final int useLogo=0x7f080099;
+    public static final int wifi_listview=0x7f08009a;
+    public static final int wifi_name=0x7f08009b;
+    public static final int withText=0x7f08009c;
+    public static final int wrap=0x7f08009d;
+    public static final int wrap_content=0x7f08009e;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
